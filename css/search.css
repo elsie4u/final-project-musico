@@ -1,0 +1,18 @@
+.hello{
+    width: 42%;
+    border-radius: 50px 0px 0px 50px;
+    border: double;
+    border-color: purple;
+    text-align: center;
+    color: black;
+}
+
+.searchButton {
+    background-color: blueviolet;
+    cursor: pointer;
+    border-radius: 0px 50px 50px 0px;
+    margin-left: -4px;
+    color: white;
+    border: double;
+    border-color: white;
+}
